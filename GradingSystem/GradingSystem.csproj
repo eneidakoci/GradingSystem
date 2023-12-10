@@ -27,6 +27,7 @@
     <Folder Include="Data\Dto\" />
     <Folder Include="Data\Interfaces\" />
     <Folder Include="Data\Repository\" />
+    <Folder Include="Migrations\" />
   </ItemGroup>
 
 </Project>
